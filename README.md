@@ -36,3 +36,10 @@
 
 ## Usecase diagram
 ![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/usecase.png)
+[Текст](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/usecaseText)
+
+## Лабораторная работа 3
+## [Диаграмма последовательности](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/diagram):
+
+![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/diaram.png)
+
