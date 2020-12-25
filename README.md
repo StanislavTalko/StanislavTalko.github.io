@@ -34,12 +34,15 @@
 
 Управляющий получает отзыв в виде суммарной оценки заведения (от 1 до 5 звезд) и заносит полученные данные через специальную форму в базу данных.
 
-## Usecase diagram
+## [Usecase diagram](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/usecaseText)
 ![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/usecase.png)
-[Текст](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/usecaseText)
 
 ## Лабораторная работа 3
 ## [Диаграмма последовательности](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/diagram):
 
 ![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/diaram.png)
+Управляющий отправляет заказ повару через приложение, отображение заказа производится в виде рецепта заказанного блюда. Повар подтверждает получение заказа.
 
+## [ER-диаграмма](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/ER-diagram):
+![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/ER-diagram.png)
+Заказ является записью в БД, которая относится к информационным потокам; состоит из рецепта блюда, отзыва и самого блюда.
