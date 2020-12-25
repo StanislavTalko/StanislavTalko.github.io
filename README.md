@@ -1,48 +1,8 @@
 ## [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-idb-17-05) Талько Станислав
 
-## Лабораторная работа 1
-Предложение: Приготовить бутерброд
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab1/idef0.png)
-Предложение: Повар готовит бутерброд по Заказу из хлеба, колбасы и сыра при помощи кухонных принадлежностей
-
-## Class diagram
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab1/class.jpg)
-## Usecase diagram
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab1/usecase.png)
-
-## Лабораторная работа 2
-## IDEF 0 
-Контекстная: 
-
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/01_A0.jpg)
-
-На диаграмме показан процесс деятельности кафе
-
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/02_A0.jpg)
-
-Блок A1: Управляющий получает на вход отзывы от посетителей кафе и правила, в соответствии с которыми осуществляется работа, на выходе - новые заказы и деньги.
-
-Блок A2: Повар получает заказ в виде рецепта бутерброда, также на вход - ресурсы и приборы. Следуя заказу, он подготавливает ингредиенты.
-
-Блок A3: Повар получает заказ в виде рецепта бутердрода и подготовленные ингредиенты на вход. Затем он готовит бутерброд и доставляет клиенту.
-
-Блок A4: Клиент получает свое блюдо (бутерброд), а после приема пищи он оставляет грязные приборы и отзыв.
-
-Блок "Управлять":
-
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/03_A0.jpg)
-
-Управляющий получает отзыв в виде суммарной оценки заведения (от 1 до 5 звезд) и заносит полученные данные через специальную форму в базу данных.
-
-## [Usecase diagram](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/usecaseText)
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab2/usecase.png)
-
-## Лабораторная работа 3
-## [Диаграмма последовательности](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/diagram):
-
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/diaram.png)
-Управляющий отправляет заказ повару через приложение, отображение заказа производится в виде рецепта заказанного блюда. Повар подтверждает получение заказа.
-
-## [ER-диаграмма](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/ER-diagram):
-![none](https://github.com/StanislavTalko/StanislavTalko.github.io/blob/master/lab3/ER-diagram.png)
-Заказ является записью в БД, которая относится к информационным потокам; состоит из рецепта блюда, отзыва и самого блюда.
+* [Семинар 1](https://github.com/stankin/design-part-1/wiki/sem1#ИДБ-17-05)
+* [Семинар 2](https://github.com/stankin/design-part-1/wiki/sem2#ИДБ-17-05)
+* [Лабораторные работы 1 - 3](https://github.com/StanislavTalko/StanislavTalko.github.io/wiki/Лабораторные-работы-1-3)
+* [Семинар 3, 4](https://github.com/StanislavTalko/StanislavTalko.github.io/wiki/Деловая-игра)
+* [Лабораторные работы 4 - 6](https://github.com/StanislavTalko/StanislavTalko.github.io/wiki/Лабораторные-работы-4-6)
+* Рефераты: [вопрос](https://github.com/stankin/design-part-1/wiki/exam15-4) и [проверка](https://github.com/stankin/design-part-1/wiki/exam06-3)
