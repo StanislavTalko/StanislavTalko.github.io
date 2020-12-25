@@ -1,0 +1,13 @@
+@startuml
+actor "Управляющий" as user
+boundary "Приложение" as app
+entity "Данные" as data
+actor "ПОвар" as user1
+
+user -> app : Отправка
+app -> data : Заказ 
+data -> app : Ответ
+app -> user1 : Отображение рецепта
+user1 -> app : Подтверждение
+app -> user : Подтверждение заказа
+@enduml
